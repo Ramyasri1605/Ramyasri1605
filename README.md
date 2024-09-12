@@ -9,4 +9,5 @@
 * Interned as a Software Engineer at Accenture, developing expertise in SQL and Java and trained in CRM customization.
 
 🌐 Socials:
-https://www.linkedin.com/in/ramyasribalijepalli/
+
+Linkedln : https://www.linkedin.com/in/ramyasribalijepalli/
