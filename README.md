@@ -34,13 +34,4 @@
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white "LinkedIn Badge"
 [1]: https://www.linkedin.com/in/ramyasribalijepalli/
 
-### More About My Work
-<details>
-  <summary>👨‍💻 Projects and Contributions</summary>
-  
-  - **Personal Finance Tracker with AI-based Advice:** Developed using Python, TensorFlow, improving user engagement by 40%.
-  - **COVID-19 Symptom Detection:** Created a logistic regression model that achieved an 85% accuracy rate.
-  - **Smart Farming:** Utilized Embedded C and Arduino to increase crop yield by 20% and improve water efficiency by 25%.
-</details>
-
 
