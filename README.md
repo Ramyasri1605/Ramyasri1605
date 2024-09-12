@@ -1,10 +1,11 @@
 Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli
 💫 About Me:
-* I am currently pursuing a Master of Engineering in Computer Science at the University of Cincinnati, where I maintain a CGPA of 3.83/4.0.
-* I earned my Bachelor of Technology in Electronics and Communication Engineering from Vignan’s Foundation for Science, Technology, and Research University, Guntur, India.
-* I am proficient in programming languages including Python, Java, Pearl, C, and SQL, and I am skilled in using developer tools like VS Code, Google Colab, Arduino, AWS, GitHub, MATLAB, and Power BI,
-  alongside holding certifications in Microsoft Dynamics 365, Power Platform Fundamentals, and Robotic Process Automation.
-* At Accenture Solutions Private Limited, I have served as an Application Development Associate, enhancing multilingual user experiences and maintaining a 98% SLA adherence rate.
+* Pursuing a Master of Engineering in Computer Science at the University of Cincinnati, focusing on Cloud Computing and Machine Learning, expected to graduate in December 2024 with a CGPA of 3.83/4.0.
+* Earned a Bachelor of Technology in Electronics and Communication Engineering from Vignan’s Foundation for Science, Technology, and Research University with a perfect CGPA of 4.0/4.0.
+* Proficient in Python, Java, C, SQL, HTML/CSS, Verilog; skilled with VS Code, Google Colab, Arduino, AWS, GitHub.
+* Certified in Robotic Process Automation from Udemy, and Microsoft Dynamics 365, Power Platform Fundamentals.
+* Served as an Application Development Associate at Accenture, enhancing user experiences and managing incident tickets with a 98% SLA adherence using Salesforce CRM.
+* Interned as a Software Engineer at Accenture, developing expertise in SQL and Java and trained in CRM customization.
 
 🌐 Socials:
 https://www.linkedin.com/in/ramyasribalijepalli/
