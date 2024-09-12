@@ -16,15 +16,6 @@
 [1]: https://www.linkedin.com/in/ramyasribalijepalli/
 
 
-
-
-
-
-
-
-
-
-
 ## 💻 Tech Stack
 - **Languages & Frameworks:** 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,11 +35,9 @@
 
 - **Cloud & Virtualization:** 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Version Control & CI/CD:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 - **CRM & Automation:** 
   ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
