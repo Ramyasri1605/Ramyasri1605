@@ -10,4 +10,4 @@
 
 🌐 Socials:
 
- Linkedln : https://www.linkedin.com/in/ramyasribalijepalli/
+  Linkedln : https://www.linkedin.com/in/ramyasribalijepalli/
