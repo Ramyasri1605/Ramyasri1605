@@ -1,4 +1,4 @@
-Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli
+**Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli**
 
 💫 About Me:
 * I am currently pursuing a Master of Engineering in Computer Science at the University of Cincinnati, where I maintain a CGPA of 3.83/4.0
