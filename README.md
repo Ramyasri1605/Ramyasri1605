@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli, a Data Analyst passionate about transforming complex data into meaningful insights that drive business outcomes.
+# Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli, a Data Analyst exploring data, finding patterns, and turning them into possibilities.
 
 ## 💫 About Me:
 
@@ -40,7 +40,7 @@
 - **Version Control & CI/CD:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **CRM & Automation:**
+- **Automation:**
 - 
   ![UiPath](https://img.shields.io/badge/UiPath-F05032?style=flat-square&logo=uipath&logoColor=white)
   ![XRM Toolbox](https://img.shields.io/badge/XRM_Toolbox-4479A1?style=flat-square&logo=microsoft&logoColor=white)
