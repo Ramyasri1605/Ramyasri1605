@@ -1,14 +1,8 @@
-# Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli, a Data Analyst exploring data, finding patterns, and turning them into possibilities.
+# Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli
 
 ## 💫 About Me:
-
-* A Computer Science graduate from the University of Cincinnati, where I completed my Master of Engineering with a CGPA of 3.83/4.0.
-* Over 4 years of experience designing enterprise data solutions, ETL pipelines, and predictive analytics.
-* Skilled in Python, SQL, Power BI, Tableau, and Snowflake, with expertise in data modeling, visualization, and automation.
-* Hands-on experience with AWS (Redshift, Glue, DynamoDB, Lambda, EMR) and Azure Data Factory for scalable data workflows.
-* Experienced in machine learning, NLP, and statistical modeling, driving measurable improvements in decision-making and performance.
-* Currently working at PTC, building IoT and AR analytics dashboards and predictive insights that enhanced platform performance.
-* Previously contributed to data warehousing, ETL optimization, and forecasting analytics at Novatore, Accenture, and Cybernest.
+Data Analyst with 4+ years of experience who loves turning numbers into stories and insights into impact.
+Proficient in Python, SQL, Power BI, Tableau, and Snowflake, with hands-on expertise in AWS and Azure Data Factory for scalable data solutions.
   
 ## 🌐 Socials:
 [![LinkedIn][1.1]][1]
