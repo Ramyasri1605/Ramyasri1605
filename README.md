@@ -1,13 +1,14 @@
- # Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli
+# Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli, a Data Analyst passionate about transforming complex data into meaningful insights that drive business outcomes.
 
 ## 💫 About Me:
 
-* Pursuing a Master of Engineering in Computer Science at the University of Cincinnati, where I maintain a CGPA of 3.83/4.0
-* Earned a Bachelor of Technology in Electronics and Communication Engineering from Vignan’s Foundation for Science, Technology, and Research University with a perfect CGPA of 4.0/4.0.
-* Proficient in Python, Java, C, SQL, HTML/CSS, Verilog; skilled with VS Code, Google Colab, Arduino, AWS, GitHub.
-* Certified in Robotic Process Automation from Udemy, and Microsoft Dynamics 365, Power Platform Fundamentals.
-* Served as an Application Development Associate at Accenture, enhancing user experiences and managing incident tickets with a 98% SLA adherence using Salesforce CRM.
-* Interned as a Software Engineer at Accenture, developing expertise in SQL and Java and trained in CRM customization.
+* A Computer Science graduate from the University of Cincinnati, where I completed my Master of Engineering with a CGPA of 3.83/4.0.
+* Over 4 years of experience designing enterprise data solutions, ETL pipelines, and predictive analytics.
+* Skilled in Python, SQL, Power BI, Tableau, and Snowflake, with expertise in data modeling, visualization, and automation.
+* Hands-on experience with AWS (Redshift, Glue, DynamoDB, Lambda, EMR) and Azure Data Factory for scalable data workflows.
+* Experienced in machine learning, NLP, and statistical modeling, driving measurable improvements in decision-making and performance.
+* Currently working at PTC, building IoT and AR analytics dashboards and predictive insights that enhanced platform performance.
+* Previously contributed to data warehousing, ETL optimization, and forecasting analytics at Novatore, Accenture, and Cybernest.
   
 ## 🌐 Socials:
 [![LinkedIn][1.1]][1]
@@ -39,8 +40,8 @@
 - **Version Control & CI/CD:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **CRM & Automation:** 
-  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+- **CRM & Automation:**
+- 
   ![UiPath](https://img.shields.io/badge/UiPath-F05032?style=flat-square&logo=uipath&logoColor=white)
   ![XRM Toolbox](https://img.shields.io/badge/XRM_Toolbox-4479A1?style=flat-square&logo=microsoft&logoColor=white)
 
