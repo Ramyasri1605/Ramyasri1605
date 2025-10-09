@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋 I'm Ramyasri Balijepalli
 
 ## 💫 About Me:
-Data Analyst with 4+ years of experience who loves turning numbers into stories and insights into impact.
+A Data Analyst with over 4 years of experience who loves turning numbers into stories and insights into impact.
 Proficient in Python, SQL, Power BI, Tableau, and Snowflake, with hands-on expertise in AWS and Azure Data Factory for scalable data solutions.
   
 ## 🌐 Socials:
